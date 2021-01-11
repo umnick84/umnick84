@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Abount me:* 
+**Abount me:** 
+
 My [web page](https://www.dmytro-pakhmanov.info/)
+<!--
+**Work:**
 
-*Work:*
 ...
+-->
 
-*Contact:*
+**Contact:**
+
 Reach me on [LinkedIn](https://www.linkedin.com/in/pahmanovdmitry/) or at hello (at) dmytro-pakhmanov.info.
