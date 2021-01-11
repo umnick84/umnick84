@@ -1,4 +1,4 @@
-I am a passionate software innovator. I live in beautiful Hamburg and always glad to discuss software ideas, goos or bad 😄
+I am a passionate [software innovator](https://www.dmytro-pakhmanov.info/). I live in beautiful Hamburg and always glad to discuss software ideas, goos or bad 😄
 <!--
 **umnick84/umnick84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Abount me:** 
-
-My [web page](https://www.dmytro-pakhmanov.info/)
 <!--
 **Work:**
 
