@@ -1,6 +1,6 @@
 **Abount me:**
 
-I am a passionate [software innovator](https://www.dmytro-pakhmanov.info/). I live in beautiful Hamburg and always glad to discuss software ideas, goos or bad 😄
+I am a passionate [software innovator](https://www.dmytro-pakhmanov.info/). I live in beautiful Hamburg and always glad to discuss software ideas, good or bad 😄
 <!--
 **umnick84/umnick84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
