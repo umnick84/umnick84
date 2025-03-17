@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 
 
 **Work:**
+[Wayfair](https://www.wayfair.com/): Shipments Exception management system implemenation using micro-service approach; migration to the third-party transportation management system.
 
 [LetMeShip](https://www.letmeship.com/de/): Quick anti-crisis solution for realtime KPI; REST API made from scratch; Infrasctructure/CI support; automation of manual steps
 
-[Enfore](https://www.enfore.com/de/): Implementation of marketplace solution using micro-service approach; DataScience Team support; Multiple API implementation
-
-[Monedo](#): System core implementation since start-up early stages
-
-
+**Learning**
+[Introduction to Artificial Intelligence with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
+[Build, Train and Deploy ML Models with Keras on Google Cloud](https://www.cloudskillsboost.google/course_templates/12)
 
 **Contact:**
-
-Reach me on [LinkedIn](https://www.linkedin.com/in/pahmanovdmitry/) or at hello (at) dmytro-pakhmanov.info.
+Reach me on [LinkedIn](https://www.linkedin.com/in/pahmanovdmitry/) or at dmytro.pakhmanov (at) gmail.com.
