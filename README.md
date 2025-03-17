@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 **Learning**
 
 [Introduction to Artificial Intelligence with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
+
 [Build, Train and Deploy ML Models with Keras on Google Cloud](https://www.cloudskillsboost.google/course_templates/12)
 
 **Contact:**
