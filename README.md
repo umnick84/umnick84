@@ -1,6 +1,6 @@
 **About me:**
 
-I am a passionate [software innovator](https://www.dmytro-pakhmanov.info/). I live in beautiful Hamburg and always glad to discuss software ideas, good or bad 😄
+I am a passionate [software innovator]([https://www.dmytro-pakhmanov.info/](https://dmytro-pakhmanov.jimdosite.com). I live in beautiful Hamburg and always glad to discuss software ideas, good or bad 😄
 <!--
 **umnick84/umnick84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [LetMeShip](https://www.letmeship.com/de/): Quick anti-crisis solution for realtime KPI; REST API made from scratch; Infrasctructure/CI support; automation of manual steps
 
-**Learning**
+**Learning:**
 
 [Introduction to Artificial Intelligence with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
 
